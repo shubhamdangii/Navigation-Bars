@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border-radius: 1px solid red;
+  font-family: Verdana;
+}
+
+.header{
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100%;
+}
+
+.header a{
+  margin-left: 50px;
+  color: azure;
+  font-family: monospace;
+  font-size:x-large;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.navbar{
+  margin-left: px;
+  padding-right: 100px;
+}
